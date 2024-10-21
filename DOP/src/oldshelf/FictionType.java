@@ -4,5 +4,5 @@ public enum FictionType {
 
 	Comedy,
 	Tragedy,
-	GoK
+	Gok
 }
